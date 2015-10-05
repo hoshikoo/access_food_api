@@ -1,0 +1,4 @@
+.DS_Store
+out/
+*.class
+lib/config.json
